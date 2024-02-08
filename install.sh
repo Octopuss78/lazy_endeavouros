@@ -5,7 +5,7 @@ sudo pacman -Syu
 sudo pacman -S git vim yay
 cd ~/Downloads
 git clone https://github.com/prasanthrangan/hyprdots.git
-cd hyprdots
+cd hyprdots/Scripts
 ./install.sh
 
 yay -S discord neovim
