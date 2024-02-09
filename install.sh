@@ -63,3 +63,4 @@ cd Tools
 wget https://cdn.binary.ninja/installers/BinaryNinja-demo.zip
 unzip BinaryNinja-demo.zip
 sudo pip3 install exegol --break-system-packages
+bash -c "$(wget https://gef.blah.cat/sh -O -)"
