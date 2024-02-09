@@ -45,7 +45,7 @@ sed -i '94s/0/agrave/' ~/.config/hypr/keybindings.conf
 
 echo '#CUSTOM ALIASES
 alias vim="nvim"
-alias dl="cd ~/Donwloads"
+alias dl="cd ~/Downloads"
 alias doc="cd ~/Documents"
 alias reload="source ~/.zshrc"
 alias ginette="nvim ~/.zshrc"
