@@ -41,3 +41,12 @@ sed -i '91s/7/minus/' ~/.config/hypr/keybindings.conf
 sed -i '92s/8/underscore/' ~/.config/hypr/keybindings.conf 
 sed -i '93s/9/ccdeilla/' ~/.config/hypr/keybindings.conf 
 sed -i '94s/0/agrave/' ~/.config/hypr/keybindings.conf 
+
+
+echo '#CUSTOM ALIASES
+alias vim="nvim"
+alias dl="cd ~/Donwloads"
+alias doc="cd ~/Documents"
+alias reload="source ~/.zshrc"
+alias ginette="nvim ~/.zshrc"
+' >> ~/.zshrc
