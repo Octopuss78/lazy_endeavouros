@@ -52,7 +52,7 @@ alias dl="cd ~/Downloads"
 alias doc="cd ~/Documents"
 alias reload="source ~/.zshrc"
 alias ginette="nvim ~/.zshrc"
-alias binja="./home/$USER/Tools/binaryninja/binaryninja"
+alias binja="/home/$USER/Tools/binaryninja/binaryninja"
 ' >>~/.zshrc
 source ~/.zshrc
 
